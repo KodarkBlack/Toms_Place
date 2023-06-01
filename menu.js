@@ -45,12 +45,12 @@ let btn = document.getElementById("myBtn");
 // console.log(count)
 
 
-// function andreAlcohol() {
-//   shoppingCart.textContent = shoppingCart + incrementBtn
-// }
+function andreAlcohol() {
+  shoppingCart.textContent = shoppingCart + incrementBtn
+}
+andreAlcohol()
 
 let shoppingCart = document.getElementById("shopping-cart")
-// let incrementBtn = document.getElementById("increment-btn")
 let count = 0
 let swallow = ["Eba", "Pounded yam", "Amala"]
 let soups = ["OGBONA", "EDIKAIKONG", "VEGETABLE", "EWEDU", "EGUSI"]
