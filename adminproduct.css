@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
 .nav-container {
     background: linear-gradient(182.17deg, #66513B -20.99%, rgba(255, 255, 255, 0) 98.17%);
     filter: drop-shadow(5px 5px 20px rgba(205, 183, 167, 0.3));
@@ -67,13 +69,13 @@
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    margin-left: 5%;
+    margin-left: 2%;
 }
 
 .admin-nav {
     margin-left: 15%;
     display: flex;
-    margin-bottom: 10%;
+    margin-bottom: 15%;
 }
 
 .admin-nav:hover {
